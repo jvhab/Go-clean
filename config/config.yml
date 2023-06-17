@@ -1,0 +1,13 @@
+postgres:
+  login: "admin"
+  password: "admin"
+  host: "localhost"
+  port: "5432"
+  db_name: "postgres"
+  pg_driver: "pgx"
+  ssl_mode: "disable"
+mongodb:
+  URI: "mongodb://localhost:27071"
+  user: "admin"
+  password: "admin"
+  db: "products"
