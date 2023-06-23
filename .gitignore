@@ -25,3 +25,6 @@ go.work
 
 #postgres
 postgres-data/
+
+#redis
+redis-data
